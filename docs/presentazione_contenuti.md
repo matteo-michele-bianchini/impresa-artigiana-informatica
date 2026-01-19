@@ -13,7 +13,7 @@ Sviluppatore Full-Stack & Consulente IT
 ---
 
 ## CHI SONO
-Ingegnere informatico con oltre 15 anni di esperienza nel settore software.
+Ingegnere, sviluppatore informatico con oltre 15 anni di esperienza nel settore software.
 Specializzato nello sviluppo di soluzioni scalabili per startup innovative e grandi enterprise.
 Approccio orientato ai risultati con visione sistemica e attenzione alle esigenze del cliente.
 
@@ -65,8 +65,3 @@ Visita il sito: https://matteo-michele-bianchini.github.io/tech-services/
 
 ---
 
-## NOTE PER LA MODIFICA
-- Modifica pure tutti i testi come preferisci
-- Mantieni la struttura delle sezioni per facilitare la rigenerazione del PDF
-- Se aggiungi o rimuovi clienti, separali con " • "
-- I numeri chiave possono essere modificati (es. "15+" diventa "20+")
