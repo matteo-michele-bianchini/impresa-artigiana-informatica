@@ -1,7 +1,7 @@
-# Tech-Services - Contenuti Presentazione Aziendale
+# 3000Tech - Contenuti Presentazione Aziendale
 
 ## HEADER
-**Nome Azienda:** Tech-Services
+**Nome Azienda:** 3000Tech
 **Sottotitolo:** di Matteo Michele Bianchini
 **Tagline:** Soluzioni Software Su Misura per il Tuo Business
 
@@ -61,7 +61,7 @@ Mia-Platform • Beta 80 • RTM Breda • Voidless • RareEarth • NewtonThru
 ---
 
 ## CALL TO ACTION
-🌐 **[Visita il Sito](https://matteo-michele-bianchini.github.io/tech-services/)**
+🌐 **[Visita il Sito](https://matteo-michele-bianchini.github.io/3000tech/)**
 
 ---
 
